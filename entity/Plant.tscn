@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://textures/plant_1.png" type="Texture" id=1]
+[ext_resource path="res://entity/Plant.gd" type="Script" id=2]
+
+[node name="Plant" type="Spatial"]
+script = ExtResource( 2 )
+
+[node name="Sprite3D" type="Sprite3D" parent="."]
+cast_shadow = 0
+centered = false
+pixel_size = 0.05
+billboard = 2
+shaded = true
+alpha_cut = 2
+texture = ExtResource( 1 )

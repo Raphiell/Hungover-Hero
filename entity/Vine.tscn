@@ -1,0 +1,27 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://textures/vine.png" type="Texture" id=1]
+[ext_resource path="res://entity/Vine.gd" type="Script" id=2]
+
+[node name="Vine" type="Spatial"]
+script = ExtResource( 2 )
+
+[node name="Vine Holster" type="Spatial" parent="."]
+
+[node name="Vine 1" type="Sprite3D" parent="Vine Holster"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.21, 0 )
+pixel_size = 0.03
+shaded = true
+alpha_cut = 2
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 0, 12, 14 )
+
+[node name="Vine 2" type="Sprite3D" parent="Vine Holster"]
+transform = Transform( -4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 0, -0.21, 0 )
+pixel_size = 0.03
+shaded = true
+alpha_cut = 2
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 0, 12, 14 )

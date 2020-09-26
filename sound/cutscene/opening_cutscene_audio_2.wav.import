@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/opening_cutscene_audio_2.wav-383e7e76bc6ef32f76160111b5165909.sample"
+
+[deps]
+
+source_file="res://sound/cutscene/opening_cutscene_audio_2.wav"
+dest_files=[ "res://.import/opening_cutscene_audio_2.wav-383e7e76bc6ef32f76160111b5165909.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/skeleton_hit.wav-62e77c7cb8408a6c04f6b07fa581dcd4.sample"
+
+[deps]
+
+source_file="res://sound/skeleton_hit.wav"
+dest_files=[ "res://.import/skeleton_hit.wav-62e77c7cb8408a6c04f6b07fa581dcd4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

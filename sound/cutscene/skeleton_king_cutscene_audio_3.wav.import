@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/skeleton_king_cutscene_audio_3.wav-f16ecd0e67cefcd92cfea153be76098c.sample"
+
+[deps]
+
+source_file="res://sound/cutscene/skeleton_king_cutscene_audio_3.wav"
+dest_files=[ "res://.import/skeleton_king_cutscene_audio_3.wav-f16ecd0e67cefcd92cfea153be76098c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

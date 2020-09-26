@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Sleeping Man.gd" type="Script" id=1]
+[ext_resource path="res://textures/sleeping_man.png" type="Texture" id=2]
+[ext_resource path="res://entity/Floating Z.tscn" type="PackedScene" id=3]
+
+[node name="Sleeping Man" type="Spatial"]
+script = ExtResource( 1 )
+
+[node name="Sprite3D" type="Sprite3D" parent="."]
+transform = Transform( 1, 0, 0, 0, -1.62921e-07, -1, 0, 1, -1.62921e-07, 0, 0, 0 )
+pixel_size = 0.1
+texture = ExtResource( 2 )
+
+[node name="Floating Z" parent="." instance=ExtResource( 3 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.271174, 0.475897 )
+
+[node name="Floating Z2" parent="." instance=ExtResource( 3 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.271174, 0.475897 )
+time_until_start = 1
+
+[node name="Floating Z3" parent="." instance=ExtResource( 3 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.271174, 0.475897 )
+time_until_start = 2

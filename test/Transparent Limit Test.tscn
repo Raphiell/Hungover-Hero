@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://entity/Pickup.tscn" type="PackedScene" id=1]
+[ext_resource path="res://test/God Ray.tscn" type="PackedScene" id=2]
+
+[node name="Transparent Limit Test" type="Spatial"]
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1.7787 )
+
+[node name="Pickup" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -10.0396 )
+pickup_type = 0
+
+[node name="God Ray" parent="." instance=ExtResource( 2 )]
+transform = Transform( -0.378439, 0, -0.925626, 0, 1, 0, 0.925626, 0, -0.378439, 0, 0, -3.62164 )

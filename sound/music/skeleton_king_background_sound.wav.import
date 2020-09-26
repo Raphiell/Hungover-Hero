@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/skeleton_king_background_sound.wav-183c355278cb51e56b981705c3428aff.sample"
+
+[deps]
+
+source_file="res://sound/music/skeleton_king_background_sound.wav"
+dest_files=[ "res://.import/skeleton_king_background_sound.wav-183c355278cb51e56b981705c3428aff.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

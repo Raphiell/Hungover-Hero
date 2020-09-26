@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/skeleton_king_final_stage_audio_4.wav-3e1a35f17960f665d4ea01a0178522c1.sample"
+
+[deps]
+
+source_file="res://sound/cutscene/skeleton_king_final_stage_audio_4.wav"
+dest_files=[ "res://.import/skeleton_king_final_stage_audio_4.wav-3e1a35f17960f665d4ea01a0178522c1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

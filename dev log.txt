@@ -1,0 +1,148 @@
+Dev Log
+
+First hour was picking ideas
+Farming sim (wife's idea, loves stardew valley)
+Pokemon style fighting game
+Visual novel
+Diablo 2 Clone
+Doom Clone
+
+I ended up with the doom clone
+which unfortunately, is quite similar to a game miziziz made for one of his 4 devs jams
+
+Second hour was preparing project. Getting assets in order and installing Qodot and setting up Trenchbroom to generate levels
+
+After that was getting basic FPS controls
+
+I also forgot to start the timer, but I took off how much I probably spent? Ugh, keeping track is more difficult then I thought.
+
+Next is adding a weapon
+
+Weapon is roughly added at 45:32 remaining
+
+Onto an enemy!
+
+Added basic enemies
+
+Added enemy death
+
+Added ladders
+
+Improved movement (adding lerp and jump grace periods)
+
+Nextup, HUD so you know your ammo and health
+
+Added HUD for health
+Added HUD for ammo
+
+Forgot to start timer again, probably spent 40 min there? ugh, this sucks
+I FUCKING EXITED THE TIMER TAB. FUCK
+I think it was 42:59 remaining or something like that
+
+ 42:38 56 Finished adding crossbow shoot sound, will start timestamping these damn logs
+
+ 42:11 57 Started adding a pickup item, added sounds for arrows hitting stuff
+
+ 41:24 32 Finished pickup health and ammo, they have sounds too!
+
+ 40:23 22 Added health upgrade pickup, don't remember what else
+
+ 39:46 00 Began building actual level
+
+ 39:13 55 Stole a waves ambience sound from another one of my games, heh heh
+
+ 38:15 00 Just a lot of working on the level. Got the starting area ready
+
+ 37:45:00 Spent half of lunch at work drawing up a map for the game
+
+ 36:34 13 Sword added, weapon switching added
+
+ 35:51 12 Added connection to dungeon layer, jeez level building is tedious
+
+ I fucking reloaded the page with the timer on it, instead of starting the level in godot. Fuck me
+
+ Um. probably like...... 20 minutes? so  35:31 12
+ 
+ 34:45 56 Still working on the dungeon area. Plugging away
+
+ 34:07 20 Working on dungeon area some more, starting to add details
+
+ 34:06 38 Quickly moved around some pickups
+
+ 33:41 38 25 minutes at work finding sounds on freesounds.org
+
+	Made some pickles from re-used bicks jars, very fitting
+
+ 33:05 49 Added a bunch of sounds, started adding buttons
+
+ 32:44 15 Finished adding buttons, added a door
+
+ 32:03 07 Finished adding doors for first little section, added player getting hit sound, knockback (need to increase it, add some y motion as well)
+
+ 30:43 34 Started adding first boss, realized I needed cutscenes first, so started working on that
+
+ 29:39 34 Basic cutscenes are working, just audio, no subtitles yet.
+	I tried adding the font via a tileset and converting letters to tile ids, but I ended up just downloading a pixel font from the internet
+
+ 29:23 28 Cutscene system implemented! With text, audio, control locking, calling arbitrary methods, and waiting arbitrary amounts of time! love it.
+
+ 28:43 28 Started adding first boss cutscene, improved opening cutscene
+
+ 27:55 51 Polishing up the Boss cutscene, (actually just getting fricking rotation working) and hitting a snag on summoning the skeleton king
+
+ 26:24 54 Opening Cutscene, first Health Pot Cutscene, boss cutscene (outside of speech) complete!
+
+Don't forget:
+	Special scenario when you don't aggro the enemies
+	Why do the shadows not work sometimes
+	Fix jitter in player movement
+	Add different sounds for different pickups
+
+ 25:53 31 Added boss death, and blue key door
+
+ 25:22 50 Added a sleeping man, fixed blue key door
+
+ 24:02 19 Added respawn and checkpoint system
+
+ 22:47 34 Skeleton Boss first attack type added
+
+ 20:39 42 Boss has 3 attack modes now, fight is really coming together
+
+ 20:00 38 Boss fight is mostly done for mechanics, just need audio now.
+
+ 18:27 25 Dungeon expansion underway
+
+ 18:15 00 More dungeon expansion
+
+ 17:54 12 Working in the car ride, added some pickups to the map, added upgraded sword texture and pickup
+
+ 17:23 13 Still in car, added skeleton spawner, regular skeletons drop stuff, added fireball turret
+
+ 17:04 41 Fixed skeleton spawner, seems to still randomly stop summoning? not sure
+
+ 15:55 11 Fixed some textures, added bits and bobs to map (pedestals), started adding draw bridge, torches
+
+ 15:38 14 Skeleton spawner not working sometimes seems to be some other object is getting the same id as the skeleton previously was, so the spawner still thinks there is an object there
+
+ 14:52 46 Tuneups galore, fixing various small things that have bugged me for a while. Trying to fix skele boss forcing himself into the last phase
+
+ 14:25 24 Fixed boss fight
+
+ 14:10 10 Added some decor tidbits, fixed boss door
+
+ 12:10 11 Added more functionality to the map, (ladders moving properly) added a tutorial, rerecorded voice lines
+
+ 10:52 21 Uhh, I can't quite recall what I've been doing this whole time. But I know I added god rays!
+
+ 10:40 46  Brother came to visit, so I got some valuable feedback, fireballs that follow you are too mean, maybe destroy/bounce them, giant pit with respawn system
+encourages not jumping and grabbing ladder (but I think I'm fine with that)
+
+ 10:13 07 Made boss reset on death, made turrets only shoot straight-flying fireballs
+
+ 06:59 44 It's over. The last 3 hours have been a blur. Polishing this, fixing that, adding that important feature, forgetting this feature. It all blended together
+but I did it, a game is uploaded. Then I had to reupload because the html version didn't capture the mouse. Oh well.
+
+THINGS YOU WANT TO HIT WITH CROSSBOW GET PUT ON LAYER 2 AS WELL AS ANY OTHERS
+
+ADD VINES
+MARK BOSS ROOM DOOR

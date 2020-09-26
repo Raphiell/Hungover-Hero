@@ -1,0 +1,56 @@
+Biblio
+
+Crossbow sound
+https://freesound.org/people/Hanbaal/sounds/178872/
+
+Hit sounds
+https://freesound.org/people/alec_havinmaa/sounds/450210/
+https://freesound.org/people/northern87/sounds/369981/
+
+Pickup Sounds
+https://freesound.org/people/sunnyflower/sounds/435294/
+https://freesound.org/people/sunnyflower/sounds/435296/
+https://freesound.org/people/nettimato/sounds/387240/
+https://freesound.org/people/qubodup/sounds/219841/
+
+Footstep sounds
+https://freesound.org/people/Nox_Sound/sounds/530589/
+
+Skeleton Hit sound
+https://freesound.org/people/apolloaiello/sounds/333910/
+https://freesound.org/people/Kane53126/sounds/257926/
+https://freesound.org/people/kellyconidi/sounds/218829/
+
+Button Push sound
+https://freesound.org/people/7778/sounds/202309/
+
+Stone Door sound
+https://freesound.org/people/FreqMan/sounds/25846/
+
+Player Hit sound
+https://freesound.org/people/Gareth_H/sounds/437138/
+https://freesound.org/people/joeboarder14/sounds/275748/
+
+Font
+https://fontlibrary.org/en/font/cave-story
+
+Skeleton King Landing Sound
+https://freesound.org/people/SoundCollectah/sounds/109360/
+
+Fire noise
+https://freesound.org/people/Wdomino/sounds/507724/
+
+Ladder sound
+https://freesound.org/people/soundslikewillem/sounds/377792/
+
+lock open
+https://freesound.org/people/SamuelGremaud/sounds/455379/
+
+Boss Music
+Drums Of War  by Rafael Krux
+Link: https://filmmusic.io/song/5326-drums-of-war-
+License: http://creativecommons.org/licenses/by/4.0/
+
+War Horde  by Rafael Krux
+Link: https://filmmusic.io/song/5391-war-horde-
+License: http://creativecommons.org/licenses/by/4.0/

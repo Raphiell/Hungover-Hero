@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/skeleton_king_death_audio_4.wav-8ab33b61f1c6ed4359418a3ce45309bc.sample"
+
+[deps]
+
+source_file="res://sound/cutscene/skeleton_king_death_audio_4.wav"
+dest_files=[ "res://.import/skeleton_king_death_audio_4.wav-8ab33b61f1c6ed4359418a3ce45309bc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
