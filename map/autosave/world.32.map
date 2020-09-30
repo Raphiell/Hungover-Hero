@@ -2880,7 +2880,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Dungeon"
-"_tb_id" "7"
+"_tb_id" "13"
 // brush 0
 {
 ( 240 -712 -16 ) ( 240 -711 -16 ) ( 240 -712 -15 ) tiles/black 0 0 0 1 1
@@ -4304,26 +4304,9 @@
 // entity 2
 {
 "classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Drop Ladder"
-"_tb_id" "8"
-"_tb_layer" "7"
-// brush 0
-{
-( 638 -1432 -54 ) ( 638 -1431 -54 ) ( 638 -1432 -53 ) tiles/ladder 8 -4 0 1 1
-( 638 -1432 -54 ) ( 638 -1432 -53 ) ( 639 -1432 -54 ) tiles/ladder 0 -4 0 1 1
-( 638 -1432 -96 ) ( 639 -1432 -96 ) ( 638 -1431 -96 ) tiles/ladder 0 -8 0 1 1
-( 640 -1416 -18 ) ( 640 -1415 -18 ) ( 641 -1416 -18 ) tiles/ladder 8 0 270 1 1
-( 640 -1416 -52 ) ( 641 -1416 -52 ) ( 640 -1416 -51 ) tiles/ladder 0 -4 0 1 1
-( 640 -1416 -52 ) ( 640 -1416 -51 ) ( 640 -1415 -52 ) tiles/ladder 8 -4 0 1 1
-}
-}
-// entity 3
-{
-"classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Dungeon Section 2"
-"_tb_id" "9"
+"_tb_id" "14"
 // brush 0
 {
 ( 536 -1272 -144 ) ( 536 -1271 -144 ) ( 536 -1272 -143 ) tiles/stone_wall_1 0 0 0 1 1
@@ -6264,13 +6247,13 @@
 ( 656 -1408 -184 ) ( 656 -1408 -183 ) ( 656 -1407 -184 ) tiles/stone_wall_1 0 0 0 1 1
 }
 }
-// entity 4
+// entity 3
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Door"
-"_tb_id" "10"
-"_tb_layer" "9"
+"_tb_id" "15"
+"_tb_layer" "14"
 // brush 0
 {
 ( 544 -1760 -160 ) ( 544 -1759 -160 ) ( 544 -1760 -159 ) tiles/stone_wall_1 8 0 0 1 1
@@ -6281,12 +6264,12 @@
 ( 560 -1752 -152 ) ( 560 -1752 -151 ) ( 560 -1751 -152 ) tiles/stone_wall_1 8 0 0 1 1
 }
 }
-// entity 5
+// entity 4
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Boss Room"
-"_tb_id" "11"
+"_tb_id" "16"
 // brush 0
 {
 ( 640 -1056 -80 ) ( 640 -1055 -80 ) ( 640 -1056 -79 ) tiles/black 0 0 0 1 1
@@ -6594,13 +6577,13 @@
 ( 824 -1056 -144 ) ( 824 -1056 -143 ) ( 824 -1055 -144 ) tiles/stone_wall_1 -8 0 0 1 1
 }
 }
-// entity 6
+// entity 5
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Drop Ladder"
-"_tb_id" "12"
-"_tb_layer" "11"
+"_tb_id" "17"
+"_tb_layer" "16"
 // brush 0
 {
 ( 814 -1068 -82 ) ( 814 -1068 -81 ) ( 814 -1069 -82 ) tiles/ladder 0 0 0 1 1

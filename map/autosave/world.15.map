@@ -2860,25 +2860,9 @@
 // entity 1
 {
 "classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "water"
-"_tb_id" "13"
-// brush 0
-{
-( -384 248 0 ) ( -384 249 0 ) ( -384 248 1 ) tiles/blue 0 0 0 1 1
-( -240 -352 0 ) ( -240 -352 1 ) ( -239 -352 0 ) tiles/blue 0 0 0 1 1
-( -240 248 0 ) ( -239 248 0 ) ( -240 249 0 ) tiles/blue 0 0 0 1 1
-( -232 264 8 ) ( -232 265 8 ) ( -231 264 8 ) tiles/blue 0 0 0 1 1
-( -232 336 8 ) ( -231 336 8 ) ( -232 336 9 ) tiles/blue 0 0 0 1 1
-( -232 264 8 ) ( -232 264 9 ) ( -232 265 8 ) tiles/blue 0 0 0 1 1
-}
-}
-// entity 2
-{
-"classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Dungeon"
-"_tb_id" "14"
+"_tb_id" "17"
 // brush 0
 {
 ( 240 -712 -16 ) ( 240 -711 -16 ) ( 240 -712 -15 ) tiles/black 0 0 0 1 1
@@ -4434,13 +4418,13 @@
 ( 448 -928 -88 ) ( 448 -928 -87 ) ( 448 -927 -88 ) tiles/stone_wall_1 0 0 0 1 1
 }
 }
-// entity 3
+// entity 2
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Door"
-"_tb_id" "15"
-"_tb_layer" "14"
+"_tb_id" "18"
+"_tb_layer" "17"
 // brush 0
 {
 ( 416 -1216 -144 ) ( 416 -1215 -144 ) ( 416 -1216 -143 ) tiles/cobblestone_2 8 0 0 1 1
@@ -4451,13 +4435,13 @@
 ( 448 -1208 -136 ) ( 448 -1208 -135 ) ( 448 -1207 -136 ) tiles/cobblestone_2 8 0 0 1 1
 }
 }
-// entity 4
+// entity 3
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Drop Ladder"
-"_tb_id" "16"
-"_tb_layer" "14"
+"_tb_id" "19"
+"_tb_layer" "17"
 // brush 0
 {
 ( 814 -1068 -82 ) ( 814 -1068 -81 ) ( 814 -1069 -82 ) tiles/ladder 0 0 0 1 1

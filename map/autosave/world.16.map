@@ -2862,7 +2862,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Dungeon"
-"_tb_id" "17"
+"_tb_id" "20"
 // brush 0
 {
 ( 240 -712 -16 ) ( 240 -711 -16 ) ( 240 -712 -15 ) tiles/black 0 0 0 1 1
@@ -4226,7 +4226,7 @@
 ( 640 -1056 -80 ) ( 641 -1056 -80 ) ( 640 -1055 -80 ) tiles/black 0 0 0 1 1
 ( 656 -1040 -72 ) ( 656 -1039 -72 ) ( 657 -1040 -72 ) tiles/black 0 0 0 1 1
 ( 656 -1040 -72 ) ( 657 -1040 -72 ) ( 656 -1040 -71 ) tiles/black 0 0 0 1 1
-( 776 -1040 -72 ) ( 776 -1040 -71 ) ( 776 -1039 -72 ) tiles/black 0 0 0 1 1
+( 688 -1040 -72 ) ( 688 -1040 -71 ) ( 688 -1039 -72 ) tiles/black 0 0 0 1 1
 }
 // brush 152
 {
@@ -4423,8 +4423,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Door"
-"_tb_id" "18"
-"_tb_layer" "17"
+"_tb_id" "21"
+"_tb_layer" "20"
 // brush 0
 {
 ( 416 -1216 -144 ) ( 416 -1215 -144 ) ( 416 -1216 -143 ) tiles/cobblestone_2 8 0 0 1 1
@@ -4440,8 +4440,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Drop Ladder"
-"_tb_id" "19"
-"_tb_layer" "17"
+"_tb_id" "22"
+"_tb_layer" "20"
 // brush 0
 {
 ( 814 -1068 -82 ) ( 814 -1068 -81 ) ( 814 -1069 -82 ) tiles/ladder 0 0 0 1 1
